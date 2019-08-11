@@ -1,0 +1,5 @@
+<root>
+    <item name='org.aspectj.lang.annotation.Pointcut'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
